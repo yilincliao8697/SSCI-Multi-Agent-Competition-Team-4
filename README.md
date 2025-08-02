@@ -17,7 +17,9 @@ Each agent only has a limited amount of clues
 ### What makes this game a test of agentic behavior? 
 Agents must communicate with each other to find out the hidden full truth from scattered clues
 ### Did you design for any specific types of agents or capabilities?
+Each agent has different tendencies and personalities
 ### How does success or failure reflect the agent’s performance?
+It made them more aware of getting the truth
 
 ## Evaluation
 
